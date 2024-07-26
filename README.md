@@ -10,4 +10,6 @@ Admins can curate content that will provide users with the data they need to mak
 
 This is a rather simple implementation featuring nothing but basic HTML, CSS, PHP and some bootstrap.
 
+## Setup
+
 In order to run the login/signup page, you will need to set up a XAMPP server, along with the necessary tables in a MySQL database.
